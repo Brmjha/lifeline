@@ -27,6 +27,8 @@ if len(sys.argv) > 1:
   query = sys.argv[1]
 
 def initialize_chain(api_key):
+    script_dir = os.path.dirname(__file__)
+    file_path = os.path.join(script_dir, 'data', 'data.txt')
     os.environ["OPENAI_API_KEY"] = api_key
     embeddings = OpenAIEmbeddings(openai_api_key=api_key)
     vectorstore = Chroma(embedding_function=embeddings)
@@ -35,7 +37,7 @@ def initialize_chain(api_key):
         print("Reusing index...\n")
         index = VectorStoreIndexWrapper(vectorstore=vectorstore)
     else:
-        loader = TextLoader("data/data.txt")
+        loader = TextLoader(file_path)
         if PERSIST:
             index = VectorstoreIndexCreator(vectorstore_kwargs={"persist_directory":"persist"}).from_loaders([loader])
         else:
