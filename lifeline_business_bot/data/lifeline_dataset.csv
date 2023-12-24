@@ -1,0 +1,22 @@
+    id_invoice,issued_Date,service,total,invoice_Status,due_Date,client,project,client_Email
+67,7/10/2023,AI Solution,8685.46,Paid,8/3/2023,Company B,TechSprint,client001@example.com
+57,10/5/2022,Mobile App Development,3196.11,Paid on time,10/19/2022,Company A,CodeCraft,client002@example.com
+79,8/1/2022,UI/UX Design,294.28,Paid on time,8/9/2022,Company D,QuantumForge,client003@example.com
+96,11/30/2022,Mobile App Development,2720.38,Paid late,12/16/2022,Company D,DataVortex,client004@example.com
+87,3/16/2023,E-commerce Development,2202.77,Paid,4/4/2023,Company D,CyberNexa,client005@example.com
+94,2/10/2023,E-commerce Development,2700.06,Paid,2/18/2023,Company B,RoboMesh,client006@example.com
+67,5/7/2023,AI Solution,4154.94,Paid on time,5/30/2023,Company C,SynthAI,client007@example.com
+88,2/20/2023,Web Development,845.23,Paid late,3/6/2023,Company C,QuantumPulse,client008@example.com
+26,8/28/2022,AI Solution,5853.75,Paid,9/10/2022,Company A,NanoLink,client009@example.com
+40,4/23/2023,E-commerce Development,1546.54,Paid on time,5/14/2023,Company C,CloudMingle,client010@example.com
+7,4/14/2023,UI/UX Design,913.97,Paid on time,4/28/2023,Company B,InsightHub,client011@example.com
+90,3/14/2023,E-commerce Development,1969,Paid late,3/22/2023,Company A,PulseSecure,client012@example.com
+65,12/10/2022,E-commerce Development,2423.13,Paid,12/20/2022,Company E,BioTechConnect,client013@example.com
+51,3/26/2023,Mobile App Development,4553.6,Paid late,4/24/2023,Company D,CipherSphere,client014@example.com
+89,9/16/2022,UI/UX Design,307.41,Paid late,10/10/2022,Company D,SkyNetSync,client015@example.com
+91,5/3/2023,AI Solution,8635.25,Paid,5/20/2023,Company B,QuantumQuasar,client016@example.com
+71,2/23/2023,UI/UX Design,693.52,Paid late,3/21/2023,Company A,InnovateXpress,client017@example.com
+34,7/4/2023,AI Solution,5778.87,Paid on time,7/25/2023,Company A,PixelHarbor,client018@example.com
+29,11/2/2022,Mobile App Development,4828.61,Paid,12/1/2022,Company E,EchoLogic,client019@example.com
+27,6/2/2023,E-commerce Development,1236.46,Paid,6/15/2023,Company C,CodeSynergy,client020@example.com
+97,12/23/2023,website and identity design ,7000 ,Not Paid,12/2/2024,Amal wheban ,Personal portfolio website ,awheban@gmail.com

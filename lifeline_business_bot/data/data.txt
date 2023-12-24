@@ -1,0 +1,130 @@
+Company Overview
+
+Company Name: Brmjha
+Business country: Saudi Arabia
+Business currency: SAR
+Industry: Technology
+Specialization: Digital Transformation Solutions
+
+Pricing Model
+Standard Website Fee: 7920 SAR
+Additional Feature Charge: 600 SAR per feature
+charges per service: 1000 SAR. 
+Standard App Fee: 18,920 SAR
+Additional Feature Charge: 800 SAR per feature
+Services Offered:
+Digital Strategy: 6000 SAR
+Implementation Plan based on Digital Strategy: 7500 SAR
+Training Services for Digital Solutions: 250 SAR / hour
+Consultation: 550 SAR / hour
+Custom Software Development: 10,000 SAR basic charge + 1,200 SAR per feature.
+Website Development: 9,000 SAR for standard website + 700 SAR per additional feature.
+App Development: 20,000 SAR for standard app + 1,000 SAR per additional feature.
+Technical Support and Maintenance: 2,000 SAR per month.
+2. Value-Based Pricing
+For highly specialized or custom services, prices can be adjusted based on the perceived value to the client and the complexity of the project.
+3. Package Deals
+Offer bundled services at a discounted rate to encourage long-term contracts and repeat business.
+4. Flexibility for SMEs
+Provide scalable solutions with flexible pricing for small and medium-sized enterprises to build long-term relationships and trust.
+Income Target
+Annual Revenue Goal: 3,000,000 SAR.
+This target can be broken down into quarterly and monthly goals to better manage and track progress.
+Revenue Streams
+Consultation and Strategy: 30% of total revenue.
+Software Development (Web and App): 40% of total revenue.
+Training and Support Services: 20% of total revenue.
+Custom and Specialized Services: 10% of total revenue.
+Strategy to Achieve Income Target
+Marketing and Sales Strategy: Aggressive marketing campaigns and sales outreach to target new clients, particularly in emerging sectors.
+
+Expanding Service Offerings: Regularly update and expand service offerings to include the latest technological advancements and cater to a wider range of client needs.
+
+Client Retention: Implement loyalty programs and discounts for repeat clients and referrals to encourage ongoing business relationships.
+
+Operational Efficiency: Continuously improve operational efficiency to reduce costs and increase profit margins without compromising the quality of service.
+
+Regular Financial Review: Conduct monthly financial reviews to track progress towards revenue goals and adjust strategies as necessary.
+
+Disclaimer: Prices may vary based on the actual requirements and project scale.
+
+Below is the list of all projects done by Brmjha (2021 - 2023):
+
+project: 1, ProjectName: Jawaher, ProjectTotal: 1000, ProjectCost: 800, ProfitPercentage: 20%, ProjectProfit: 200, NumberOfServices: 2, ProjectType: Designs
+project: 2, ProjectName: Mashael al-kheer, ProjectTotal: 14893.74, ProjectCost: 10425.618, ProfitPercentage: 30%, ProjectProfit: 4468, NumberOfServices: 2, ProjectType: Website
+project: 3, ProjectName: Reem, ProjectTotal: 650, ProjectCost: 520, ProfitPercentage: 20%, ProjectProfit: 130, NumberOfServices: 1, ProjectType: Consultation
+project: 4, ProjectName: Maha, ProjectTotal: 490, ProjectCost: 343, ProfitPercentage: 30%, ProjectProfit: 147, NumberOfServices: 2, ProjectType: Consultation
+project: 5, ProjectName: Mohammed, ProjectTotal: 360, ProjectCost: 252, ProfitPercentage: 30%, ProjectProfit: 108, NumberOfServices: 2, ProjectType: Consultation
+project: 6, ProjectName: Basma tadawl, ProjectTotal: 1450, ProjectCost: 1160, ProfitPercentage: 20%, ProjectProfit: 290, NumberOfServices: 3, ProjectType: Consultation
+project: 7, ProjectName: Wedad, ProjectTotal: 180, ProjectCost: , ProfitPercentage: 20%, ProjectProfit: 36, NumberOfServices: 1, ProjectType: Consultation
+project: 8, ProjectName: Medical project, ProjectTotal: 16000, ProjectCost: 8860, ProfitPercentage: 81%, ProjectProfit: 7140, NumberOfServices: 1, ProjectType: Fixing App
+project: 9, ProjectName: Cam project, ProjectTotal: 4750, ProjectCost: 0, ProfitPercentage: 30%, ProjectProfit: 1425, NumberOfServices: 1, ProjectType: Electrical Engineering Project
+project: 10, ProjectName: Al-nakheel, ProjectTotal: 0, ProjectCost: 2500, ProfitPercentage: 0%, ProjectProfit: 0, NumberOfServices: 0, ProjectType: Website design
+project: 11, ProjectName: Robot project, ProjectTotal: 5000, ProjectCost: 4000, ProfitPercentage: 20%, ProjectProfit: 1000, NumberOfServices: 1, ProjectType: Robot Building + Design
+project: 12, ProjectName: Majaal, ProjectTotal: 2100, ProjectCost: 3100, ProfitPercentage: 0%, ProjectProfit: -1000, NumberOfServices: 1, ProjectType: Website
+project: 13, ProjectName: Salon Talk, ProjectTotal: 6000, ProjectCost: 4200, ProfitPercentage: 30%, ProjectProfit: 1800, NumberOfServices: 1, ProjectType: Website
+project: 14, ProjectName: Waseet, ProjectTotal: 14345, ProjectCost: 14345, ProfitPercentage: 0%, ProjectProfit: 0, NumberOfServices: 1, ProjectType: Fixing App
+project: 15, ProjectName: Malak studio, ProjectTotal: 9072, ProjectCost: 9072, ProfitPercentage: 0%, ProjectProfit: 0, NumberOfServices: 1, ProjectType: Design + Website
+project: 16, ProjectName: Lawyer, ProjectTotal: 1700, ProjectCost: 1700, ProfitPercentage: 0%, ProjectProfit: 0, NumberOfServices: 1, ProjectType: Website
+project: 17, ProjectName: Qawam, ProjectTotal: 21192.5, ProjectCost: 20473.25, ProfitPercentage: 0%, ProjectProfit: 719.25, NumberOfServices: 2, ProjectType: UX/UI
+project: 18, ProjectName: Netaj knowledge, ProjectTotal: 27000, ProjectCost: 18900, ProfitPercentage: 30%, ProjectProfit: 8100, NumberOfServices: 2, ProjectType: Fixing Website
+project: 19, ProjectName: Monshaat, ProjectTotal: 60000, ProjectCost: 54000, ProfitPercentage: 10%, ProjectProfit: 6000, NumberOfServices: 1, ProjectType: Competition19
+
+I have had more than 20 clients serving since 2021. 
+
+Additional information about my business: 
+I have 10-15 highly skilled people working with me as designers, developers, and SMEs. 
+We have our own internal training program for the people to develop their soft and technical skills, 3 3-month program.
+
+Training Program Structure:
+Duration and Frequency: The program spans three months and is conducted three times a year, ensuring regular opportunities for employee development.
+Content: It encompasses a comprehensive curriculum that balances soft skills, like communication and teamwork, with advanced technical skills relevant to the latest industry trends and technologies.
+Methodology: The training is conducted through a mix of hands-on projects, workshops, seminars led by industry experts, and self-paced online courses.
+Impact and Results:
+Skill Enhancement: Participants consistently show marked improvements in both their technical abilities and soft skills, directly contributing to enhanced performance in their respective roles.
+Innovation and Creativity: The program encourages innovative thinking, with many participants contributing fresh ideas and perspectives to ongoing projects, significantly boosting the company's creative output.
+Employee Engagement: The training fosters a culture of continuous learning and growth, leading to higher levels of employee engagement and job satisfaction.
+Employee Growth and Opportunities:
+Promotions: Since the inception of the training program, Brmjha has seen a considerable increase in internal promotions, with about 30% of participants moving up to more advanced roles within the company.
+Retention Rates: The company's employee retention rates have improved significantly, with a notable decrease in turnover. The enriching environment created by the training program has been instrumental in retaining top talent.
+Career Advancement: Many employees who have undergone the training have advanced to lead major projects or spearhead new initiatives within the company, demonstrating the program's effectiveness in preparing employees for leadership roles.
+Success Stories:
+Case Studies: The program has produced numerous success stories, such as designers who have won awards for their innovative work, developers who have created breakthrough technologies, and SMEs who have become thought leaders in their fields.
+Recognition: The success of the training program has garnered attention in the tech industry, with Brmjha being recognized as a company that invests deeply in its employees' growth and well-being.
+Brmjha's internal training program is not just an employee development initiative; it's a testament to the company's dedication to excellence, innovation, and the personal and professional growth of its team members. By continuously nurturing and advancing the skills of its workforce, Brmjha stands at the forefront of delivering exceptional digital transformation solutions.
+
+The end result of the program is multiple great projects by the trainee. 
+It takes us 25 hours per week on average to prepare for the program.
+The trainees are expected to attend 2 meetings per week, 3 hours each as mandatory. 
+Then they shall schedule their work remotely on their own. 
+
+Brmjha business Goal: 1.generate at least 100k profit yearly
+2. have great reputation about the services we provide
+3. service small and medium businesses and build trust with them
+
+Brmjha Business values: Excellence, Effeiciency, and Effectiveness
+
+
+clients feedback regarding brmjha:
+
+1. "The level of service provided by Brmjha is truly exceptional. From our initial consultation to the final implementation, their team was attentive, responsive, and deeply committed to our project's success. Their personalized approach made us feel valued and well-taken care of throughout the entire process."
+2. "Brmjha's customer service is unparalleled. They not only delivered a top-notch tech solution for our company but also provided ongoing support that was both efficient and highly professional. Any questions we had were promptly addressed, making us feel fully supported in our tech journey."
+3. "I was particularly impressed by Brmjha's commitment to customer satisfaction. Their team went above and beyond to understand our specific needs, offering tailored solutions and comprehensive training to ensure we were comfortable with the new system. Their proactive communication and follow-up were outstanding."
+4. "From the outset, Brmjha demonstrated a remarkable level of professionalism and expertise in their services. They provided clear timelines, thorough explanations, and regular updates throughout our project, ensuring a smooth and stress-free experience. Their attention to detail and customer-focused approach is commendable."
+5. "Brmjha's service is the epitome of excellence. Their team not only addressed our immediate tech needs but also anticipated potential challenges, providing solutions that were both innovative and user-friendly. Their dedication to ensuring our satisfaction and their ongoing support post-implementation has solidified them as a trusted and invaluable tech partner for our business."
+6. "While Brmjha's tech solutions are undoubtedly innovative and effective, I found their pricing to be a significant hurdle. As a small business, budget constraints are always top of mind, and their standard fees, coupled with additional charges for extra features, stretched our finances more than we anticipated."
+7. "I was initially excited to work with Brmjha given their reputation, but was taken aback by the cost of their services. Although they offer high-quality solutions, the steep pricing, especially for additional features and services, made it challenging for our company to justify the investment without straining our budget."
+8. "While Brmjha's team is highly skilled and their solutions are top-notch, the extended time it took to deliver our project was a bit disappointing. The timeline stretched far beyond our initial agreement, causing some disruptions in our planning and operational schedules."
+0. "Brmjha's responsiveness and customer support are truly commendable. Throughout our project, they were consistently quick to respond to our inquiries and concerns, providing clear, helpful information and ensuring that any issues we encountered were promptly addressed."
+10. "The quality of designs provided by Brmjha is exceptional. Their team exhibits a remarkable blend of creativity and technical expertise, delivering visually stunning and highly functional designs that perfectly align with our brand's aesthetic and operational needs."
+
+invoices: 
+We invoice monthly invoices or based on milestone of each project.
+
+We send the invoices of each project.
+
+Each project manager tracks the project's payments.
+
+We receive payments in our bank accounts.
+
+Some clients pay whole amount at the end rather than by milestone
