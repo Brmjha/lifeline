@@ -207,10 +207,10 @@ def handle_query(query, chain):
     return response
 
 def main():
-    st.set_page_config(page_title='Lifeline - Business Assistant', page_icon='favicon.ico')
+    st.set_page_config(page_title='Lifeline - Business Assistant', page_icon='lifeline_business_bot/favicon.jpg')
     col1, col2, col3 = st.columns([1,6,1])
     with col2:
-        st.image('logo.png', width=400)
+        st.image('lifeline_business_bot/logo.png', width=400)
         
     st.title('Lifeline - Business Assistant')
     api_key = st.text_input("Enter your API Key:", type="password")
