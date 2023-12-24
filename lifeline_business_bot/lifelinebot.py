@@ -222,7 +222,7 @@ def main():
         response = handle_query(user_query, chain)
         st.write(response)
     elif not api_key:
-        st.write("Please enter the API Key.")
+        st.write("Please enter your OpenAi API Key.")
     elif not user_query:
         st.write("Please enter a query.")
 
