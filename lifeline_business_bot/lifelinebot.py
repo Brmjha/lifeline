@@ -214,7 +214,7 @@ def main():
         st.image('lifeline_business_bot/logo.png', width=400)
         
     st.title('Lifeline - Business Assistant')
-    api_key = st.text_input("Enter your API Key:", type="password")
+    api_key = st.text_input("Enter your OpenAI API Key:", type="password")
     user_query = st.text_input("How can I help you?")
 
     if st.button('Submit') and api_key and user_query:
@@ -222,7 +222,7 @@ def main():
         response = handle_query(user_query, chain)
         st.write(response)
     elif not api_key:
-        st.write("Please enter your OpenAi API Key.")
+        st.write("Please enter the API Key.")
     elif not user_query:
         st.write("Please enter a query.")
 
